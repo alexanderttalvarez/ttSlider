@@ -12,7 +12,7 @@ function ttSlider(initClass,width,height,background,automiliseconds) {
   // Checking if the object has been used before in order to avoid creating two memory acceses
   if (typeof ttSlider._initialized == "undefined") {
 
-    // ------- METHODS
+    // METHODS
     // *************************************************************************
     // * Function: getSliders                                                  *
     // * Description: It fills a variable with the different sliders with      *
